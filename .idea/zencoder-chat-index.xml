@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ai.zencoder.plugin.chat.index">
+    <option name="activeChatId" value="62c195c3-5b3d-4a41-8f6c-5f90321936d5" />
+    <option name="chatMetadata" value="{&quot;62c195c3-5b3d-4a41-8f6c-5f90321936d5&quot;:{&quot;id&quot;:&quot;62c195c3-5b3d-4a41-8f6c-5f90321936d5&quot;,&quot;title&quot;:&quot;Java Primitive Type Maximums&quot;,&quot;createdAt&quot;:1755094226386,&quot;updatedAt&quot;:1755094231919,&quot;isAgent&quot;:true,&quot;isNameGenerated&quot;:true,&quot;messageCount&quot;:2,&quot;lastMessagePreview&quot;:&quot;The user is asking for the \&quot;max for all value\&quot; - I believe they want to see the maximum values for a...&quot;},&quot;e9619c96-8650-4f91-865f-04202dd2e154&quot;:{&quot;id&quot;:&quot;e9619c96-8650-4f91-865f-04202dd2e154&quot;,&quot;title&quot;:&quot;Language Capabilities Inquiry&quot;,&quot;createdAt&quot;:1754924861091,&quot;updatedAt&quot;:1754924864909,&quot;isAgent&quot;:true,&quot;isNameGenerated&quot;:true,&quot;messageCount&quot;:2,&quot;lastMessagePreview&quot;:&quot;The user is asking if I speak Russian. This is a simple question about my language capabilities. I s...&quot;}}" />
+  </component>
+</project>
