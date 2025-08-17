@@ -7,9 +7,6 @@ out/
 *.iml
 .iml
 
-### My ###
-src/Car.java
-src/Main.java
 
 ### Eclipse ###
 .apt_generated
