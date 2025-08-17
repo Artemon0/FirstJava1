@@ -8,8 +8,8 @@ out/
 .iml
 
 ### My ###
-Car.java
-Main.java
+src/Car.java
+src/Main.java
 
 ### Eclipse ###
 .apt_generated
